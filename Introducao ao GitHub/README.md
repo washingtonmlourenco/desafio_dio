@@ -1,4 +1,4 @@
-                  #####Dicas essências para começar a realizar seus primeiros **commits** no **Github**.
+                  #### Dicas essências para começar a realizar seus primeiros commits no Github.
 
 
 
@@ -46,7 +46,7 @@
 
 - Clique no Seu **avatar** no canto superior direito,  clique em **settings ->** **Acess**  **->** **SSH and GPG Keys**, clique em **New SSH Key**, posteriormente de um título para sua chave SSH  e cole todo o código que copiou no campo **Key**, como mostra a imagem abaixo.
 
-​						<img src="C:\Users\WashingtonMagelaLour\AppData\Roaming\Typora\typora-user-images\image-20220301192008187.png" alt="image-20220301192008187" style="zoom: 80%;" />
+​						![addssh](https://user-images.githubusercontent.com/67602627/156265687-cec5ca7e-5bbf-41aa-9ab9-8a043aee7906.png)
 
 
 
