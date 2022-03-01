@@ -1,4 +1,4 @@
-                ##### 													Dicas essências para começar a realizar seus primeiros **commits** no **Github**.
+                ##### 							Dicas essências para começar a realizar seus primeiros **commits** no **Github**.
 
 
 
@@ -14,7 +14,7 @@
 
 - Na aba de **Acess** clique em **SSH and GPG Keys**, posteriormente clique em generating ssh keys como mostra a segunda imagem abaixo:
 
-  ​													![sshandgpg](C:\Users\WashingtonMagelaLour\Videos\Cloud Data Engineer\Github\Git\Dio\desafio_dio\Introdução ao GitHub\Images\sshandgpg.png)	
+  ​													![sshandgpg](https://user-images.githubusercontent.com/67602627/156264872-d756b389-257c-4adf-8d0e-82ab74981945.png)
 
   
 
