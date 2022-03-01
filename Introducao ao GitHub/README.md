@@ -1,4 +1,4 @@
-                ##### 							Dicas essências para começar a realizar seus primeiros **commits** no **Github**.
+                  #####Dicas essências para começar a realizar seus primeiros **commits** no **Github**.
 
 
 
@@ -18,7 +18,7 @@
 
   
 
-  ​									![image-20220301181105465](C:\Users\WashingtonMagelaLour\AppData\Roaming\Typora\typora-user-images\image-20220301181105465.png)							
+  ​									![generatingsshkeys](https://user-images.githubusercontent.com/67602627/156265191-351f7c24-af5e-43bf-8f39-c2c89ba5a7c7.png)							
 
   
 
