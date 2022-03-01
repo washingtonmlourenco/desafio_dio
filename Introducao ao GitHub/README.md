@@ -3,7 +3,8 @@
 
 
 - Passo um acesse o seu **Github**, pelo link a seguir [Github](https://github.com/), clique sobre a imagem do seu **avatar** no canto superior direito. 				
-  - ![](C:\Users\WashingtonMagelaLour\Videos\Cloud Data Engineer\Github\Git\Dio\desafio_dio\Introdução ao GitHub\Images\avatar.png)	
+  - ![avatar](https://user-images.githubusercontent.com/67602627/156264435-35a43118-c83c-4482-b2f9-8602c2d094b5.png)
+
 
 - Clique em **Settings**:
 
