@@ -8,7 +8,9 @@
 
 - Clique em **Settings**:
 
-​																					<img src="C:\Users\WashingtonMagelaLour\Videos\Cloud Data Engineer\Github\Git\Dio\desafio_dio\Introdução ao GitHub\Images\settings.png" alt="settings" style="zoom: 67%;" />
+    
+     ![settings](https://user-images.githubusercontent.com/67602627/156264635-e023d8ea-9777-41ec-aa6d-debc93cc269f.png)
+
 
 - Na aba de **Acess** clique em **SSH and GPG Keys**, posteriormente clique em generating ssh keys como mostra a segunda imagem abaixo:
 
