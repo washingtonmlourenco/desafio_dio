@@ -40,7 +40,7 @@
 
 - Posteriormente será gerada a chave via terminal, temos duas opções onde a mais performática é fazer um **cat c:/caminhoarquivo/.ssh/id_rsa**,  ou ir até o caminho do arquivo e abrir manualmente, copie todo o código abaixo e voltamos no **Github**.
 
-  ​							![image-20220301185226254](C:\Users\WashingtonMagelaLour\AppData\Roaming\Typora\typora-user-images\image-20220301185226254.png)				
+  ​							![ssh](https://user-images.githubusercontent.com/67602627/156265561-0819de12-1fe1-415f-9204-3ac67b9a85f3.png)			
 
 
 
